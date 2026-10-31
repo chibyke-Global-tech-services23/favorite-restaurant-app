@@ -1,0 +1,24 @@
+{
+  "restaurant": {
+    "name": "Favorite Restaurant and Bar",
+    "owner": "Mrs. Okeke Okwudiri Favour",
+    "location": "Awo-Omamma",
+    "website": "https://favourite-kitchen-awo-omamma.netlify.app/#payment",
+    "phone": "07032856664",
+    "motto": "Your satisfaction is our priority."
+  },
+  "app": {
+    "purpose": [
+      "The app is created to help customers order food and drinks from a distance.",
+      "The app aims to make the restaurant look advanced and provide a convenient digital experience.",
+      "The app is intended to help satisfy customers' needs when it comes to food and drinks."
+    ]
+  },
+  "technology_company": {
+    "name": "Chibyke Global Tech Services",
+    "contact_email": "chibykeglobaltechservices@gmail.com",
+    "developer": "Master Okeke Victory Chibuikem",
+    "developer_title": "CEO of Chibyke Global Tech Services",
+    "vision": "The app developer has a dream of building apps and websites that can help people, and continues to pursue that dream through the company."
+  }
+}
